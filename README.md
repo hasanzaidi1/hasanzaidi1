@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hasan Zaidi</h1>
 
-A passionate Full Stack Engineer with a focus on automation and backend development. I work with various tech stacks, including Selenium, C, JavaScript, and PostgreSQL.
+🌟 Passionate Full Stack Engineer | Automation Enthusiast | Backend Development Guru 🌟
 
-I’m always eager to explore new technologies and build efficient solutions to complex problems. I believe in writing clean, scalable code and improving user experience.
+I’m a dedicated Full Stack Engineer who thrives on turning complex challenges into efficient, elegant solutions. My journey has led me through a diverse tech landscape, where I’ve honed my skills in Selenium, C, JavaScript, and PostgreSQL.
 
----
+With a natural curiosity for exploring new technologies, I’m always on the lookout for innovative ways to enhance user experiences and streamline processes. I take pride in writing clean, scalable code that not only meets requirements but also elevates the overall functionality of a project.
 
-### 🔭 Current Projects
-- **Password Strength Meter**: A C program to evaluate password strength based on multiple criteria.
-- **Student Registration System**: A full-stack web app for managing student data using Node.js and PostgreSQL.
-  
+Let’s connect and collaborate on transforming ideas into reality! 🚀
+
 ---
 
 ### 📫 Get in Touch
