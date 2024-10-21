@@ -4,6 +4,8 @@
 
 I’m a dedicated Full Stack Engineer who thrives on turning complex challenges into efficient, elegant solutions. My journey has led me through a diverse tech landscape, where I’ve honed my skills in Selenium, C, JavaScript, and PostgreSQL.
 
+I previously worked at WebstaurantStore, where I focused on Quality Assurance Automation, gaining hands-on experience in ensuring high-quality software delivery. Since then, I have been in love with automation and using Selenium for personal tasks. Check out my project here:  [Spotify Automation](https://github.com/hasanzaidi1/spotify_Automation).
+
 With a natural curiosity for exploring new technologies, I’m always on the lookout for innovative ways to enhance user experiences and streamline processes. I take pride in writing clean, scalable code that not only meets requirements but also elevates the overall functionality of a project.
 
 Let’s connect and collaborate on transforming ideas into reality! 🚀
