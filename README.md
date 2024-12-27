@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasan Zaidi</h1>
+<h1 align="center">Hi 👋, I'm Hasan</h1>
 
 🌟 Passionate Full Stack Engineer | Automation Enthusiast | Backend Development Guru 🌟
 
